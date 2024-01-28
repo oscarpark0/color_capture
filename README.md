@@ -3,7 +3,9 @@
 This script uses the Pygame library to create an interactive game where balls of different colors move autonomously to capture squares of matching colors. The game also includes a special square event that temporarily increases ball speed and a line chart that displays the history of scores for each color.
 
 
-![color_capture-ezgif com-optimize](https://github.com/oscarpark0/color_capture/assets/115663638/b9a2f7ca-d0dc-433b-a2b8-b7cb444f2e81)
+
+https://github.com/oscarpark0/color_capture/assets/115663638/a74e2770-b92e-4ebf-9d49-8178b11e7bde
+
 
 
 ## Installation
